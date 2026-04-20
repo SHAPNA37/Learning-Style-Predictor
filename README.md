@@ -14,9 +14,9 @@ This disconnect leads to low engagement and poor performance — not because stu
 
 
 
-## 🎥 Demo
+##  Demo
 
-📌 **[Watch Live Demo on LinkedIn][https://www.linkedin.com/posts/shapna-selvi-0074b6351_1st-place-ai-in-data-analytics-national-activity-7359237995482284032-ax_Y?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFfRI4cB6iKZEZs0wwvXUPBrGQHKZUITFqE]**
+ **[Watch Live Demo on LinkedIn][https://www.linkedin.com/posts/shapna-selvi-0074b6351_1st-place-ai-in-data-analytics-national-activity-7359237995482284032-ax_Y?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFfRI4cB6iKZEZs0wwvXUPBrGQHKZUITFqE]**
 
 
 
@@ -135,9 +135,9 @@ The model uses these 10 student inputs to make predictions:
 - Lack of Interest
 - Sports Participation
 
----
 
-## 🔭 Future Scope
+
+##  Future Scope
 
 -  **Multilingual support** — Hindi, Tamil, Marathi and other regional languages for Tier 2/3 cities and rural schools
 -  **Disability-friendly design** — text-to-speech, high-contrast UI, and keyboard navigation for students with learning disabilities
@@ -156,10 +156,3 @@ The model uses these 10 student inputs to make predictions:
 -  Organized by **VSIT & IEEE Bombay Section**
 -  Track 2 — AI in Data Analytics
 -  Built **solo** with no prior experience in competitive tech events
-
-
-
-## 👩‍💻 Author
-
-**Shapna Selvi** — [@SHAPNA37](https://github.com/SHAPNA37)  
-[LinkedIn](https://in.linkedin.com/in/shapna-selvi-0074b6351)
