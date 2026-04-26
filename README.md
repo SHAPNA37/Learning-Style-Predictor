@@ -14,9 +14,9 @@ This disconnect leads to low engagement and poor performance — not because stu
 
 
 
-##  Demo
+##  Deployed Model
 
- **[Watch Live Demo on LinkedIn][https://www.linkedin.com/posts/shapna-selvi-0074b6351_1st-place-ai-in-data-analytics-national-activity-7359237995482284032-ax_Y?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFfRI4cB6iKZEZs0wwvXUPBrGQHKZUITFqE]**
+ **[Deployed Model][https://learning-style-predictor-gpfqbk2appppza5qbiawifmg.streamlit.app/]**
 
 
 
